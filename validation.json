@@ -1,0 +1,10 @@
+{
+  "archive_extracted": true,
+  "source_zips_integrity": true,
+  "private_data_included": false,
+  "standalone_api_checks": 55,
+  "parallel_private_range_requests": 200,
+  "destination_network_capacity_tested": false,
+  "browser_ui_tested": false,
+  "destination_nginx_systemd_tested": false
+}

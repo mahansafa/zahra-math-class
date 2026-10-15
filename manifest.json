@@ -1,0 +1,30 @@
+{
+  "project": "Math Class — مهندس زهرا تعویذی",
+  "export_date": "2026-10-15",
+  "source_commit": "34b608c1ff7c676065dca41da6e1b68ffe4e1f1a",
+  "target": "Ubuntu 24.04 LTS x86_64",
+  "node": "24.19.0",
+  "next": "16.3.4",
+  "react": "19.2.6",
+  "database": "SQLite WAL",
+  "deployment_status": "not installed on destination",
+  "data_included": false,
+  "source_export_and_private_object_transfer": "pending; separate authenticated transfer required",
+  "validation": "55 local standalone API checks passed after extracting this archive, including 200 small parallel private range requests; no destination capacity or browser verification",
+  "domain_requirement": ".ir",
+  "contains_credentials": false,
+  "contains_runtime_dependencies": true,
+  "development_source": true,
+  "security_notes": [
+    "No DRM/screen-recording blackout",
+    "Cookie and playback lease controls; not a hardware device binding or fixed-IP requirement",
+    "No admin 2FA yet"
+  ],
+  "public_export": true,
+  "public_repository": "mahansafa/zahra-math-class",
+  "public_export_changes": [
+    "Original hosting project identifier removed",
+    "Build cache excluded",
+    "Ubuntu source organized as repository root with deployment/iran and docs"
+  ]
+}
